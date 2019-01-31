@@ -17,8 +17,5 @@ Predicting whether loan can be given or not with some qualifications using machi
 ## mnist_code ##
 Developed **Convolutional Neural Network model** for predicting handwritten dataset and analysed model using **ROC curve and accuracy obtained from confusion matrix**.
 
-## Optical Character Recognition ##
-Developed static OCR model using **CNN model** along with **thresholding and dilation** on the images. 
-
 ## NN ##
 Developed **MultiLayer Neural Network** from scratch using numpy along with BackPropagtion.
